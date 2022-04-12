@@ -7,3 +7,5 @@ At every iteration of this algorithm, two steps are followed, known as Expectati
 2. (Expectation) Compute the probability of each possible sample, given the parameters.
 3. (Maximization) Use the just-computed probabilities of each sample to compute a better estimate for the parameters.
 4. Repeat steps 2 and 3 to convergence.
+
+With the program, it is possible to explain and visualize the steps followed by the algorithm using synthetic 2D data. The program allows the adjustment of the data in its distribution and number of clusters.
